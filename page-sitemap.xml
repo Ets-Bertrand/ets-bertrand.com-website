@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<url>
+		<loc>/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/" />
+		<xhtml:link rel="alternate" hreflang="it" href="/it/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/" />
+		<lastmod>2024-05-31T14:02:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/06/logo-blanc.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/06/oyster.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/06/pump.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/06/shopping-basket.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/06/gloves.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/MARENNES-scaled-e1665661191565-1024x768-copie-e1665661633661.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/GUJAN-001-e1665661137908.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/en/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/" />
+		<xhtml:link rel="alternate" hreflang="it" href="/it/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/" />
+		<lastmod>2023-10-24T07:30:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/06/logo-blanc.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/06/oyster.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/06/pump.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/06/shopping-basket.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/06/gloves.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/MARENNES-scaled-e1665661191565-1024x768-copie-e1665661633661.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/GUJAN-001-e1665661137908.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/it/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/" />
+		<xhtml:link rel="alternate" hreflang="it" href="/it/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/" />
+		<lastmod>2025-05-22T21:52:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/06/logo-blanc.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/06/oyster.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/06/pump.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/06/shopping-basket.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/06/gloves.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/MARENNES-scaled-e1665661191565-1024x768-copie-e1665661633661.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/GUJAN-001-e1665661137908.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/billets/</loc>
+		<xhtml:link rel="alternate" hreflang="fr" href="/billets/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/billets/" />
+		<lastmod>2023-01-23T16:25:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/woodstown-beach-waterford-ireland-some-oyster-and-seafood-farm-on-the-beach-bed-lines-where-they-are-grown-and-collected-1-400x250.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/21-400x250.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/LAVEUR-PLAT-V2-3-400x250.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/logo-salon-de-la-conchyliculture-2022-400x250.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/a-propos/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/our-history/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/a-propos/" />
+		<xhtml:link rel="alternate" hreflang="it" href="/it/chi-siamo/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/a-propos/" />
+		<lastmod>2023-01-26T08:31:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/HISTOIRE-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/HISTOIRE-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/HISTOIRE-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/1627831292780.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/particuliers/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/private-customers/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/particuliers/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/particuliers/" />
+		<lastmod>2023-01-26T09:19:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/20211007_172315-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/marennes/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/marennes/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/marennes/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/marennes/" />
+		<lastmod>2023-01-27T07:59:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/MAGASIN-ETABLISSEMENT-BERTRAND-MARENNES.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/MARENNES-VU-DU-CIEL.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/PORT-DE-LA-TREMBLADE.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/gujan-mestras/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/gujan-mestras/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/gujan-mestras/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/gujan-mestras/" />
+		<lastmod>2023-01-27T09:00:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/GUJAN-001-e1665661137908.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/DSC_0053-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/DSC_0055-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/DSC_0051-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/IMG_E9465-1-e1666341846996.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mentions-legales/</loc>
+		<xhtml:link rel="alternate" hreflang="fr" href="/mentions-legales/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/mentions-legales/" />
+		<lastmod>2023-01-27T09:29:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/Capture-decran-2023-01-27-a-09.09.24.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/machines-ostreicoles/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/oyster-equipment/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/machines-ostreicoles/" />
+		<xhtml:link rel="alternate" hreflang="it" href="/it/macchine-della-molluschicoltura/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/machines-ostreicoles/" />
+		<lastmod>2023-04-12T06:07:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/ENSACHEUSE-JUNIOR-1-761x675.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/Cage-pour-poche--815x675.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/laveur-tubulaire-2-518x675.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/laveur-plat-alu-v2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/1.1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/detroqueuse-1-770x675.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/2022-FICHE-TECHNICO-CRIBLE-VIBRANT-3G-VF-1080x675.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/BOUILLOIRE.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/2022-FICHE-TECHNICO-BOUILLOIRE-GM-VF.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/en/our-history/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/our-history/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/a-propos/" />
+		<xhtml:link rel="alternate" hreflang="it" href="/it/chi-siamo/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/a-propos/" />
+		<lastmod>2023-05-27T21:35:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/HISTOIRE-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/HISTOIRE-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/HISTOIRE-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/1627831292780.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/en/marennes/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/marennes/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/marennes/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/marennes/" />
+		<lastmod>2023-05-27T21:38:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/MAGASIN-ETABLISSEMENT-BERTRAND-MARENNES.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/MARENNES-VU-DU-CIEL.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/PORT-DE-LA-TREMBLADE.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/en/gujan-mestras/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/gujan-mestras/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/gujan-mestras/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/gujan-mestras/" />
+		<lastmod>2023-05-27T21:39:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/GUJAN-001-e1665661137908.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/DSC_0053-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/DSC_0055-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/DSC_0051-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/IMG_E9465-1-e1666341846996.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/en/private-customers/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/private-customers/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/particuliers/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/particuliers/" />
+		<lastmod>2023-05-27T21:40:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/20211007_172315-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/en/oyster-equipment/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/oyster-equipment/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/machines-ostreicoles/" />
+		<xhtml:link rel="alternate" hreflang="it" href="/it/macchine-della-molluschicoltura/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/machines-ostreicoles/" />
+		<lastmod>2023-05-27T21:43:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/ENSACHEUSE-JUNIOR-1-761x675.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/Cage-pour-poche--815x675.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/laveur-tubulaire-2-518x675.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/laveur-plat-alu-v2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/1.1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/detroqueuse-1-770x675.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/2022-FICHE-TECHNICO-CRIBLE-VIBRANT-3G-VF-1080x675.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/BOUILLOIRE.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/2022-FICHE-TECHNICO-BOUILLOIRE-GM-VF.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/contact/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/contact/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/contact/" />
+		<xhtml:link rel="alternate" hreflang="it" href="/it/contattaci/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/contact/" />
+		<lastmod>2025-05-21T20:17:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/en/contact/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/contact/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/contact/" />
+		<xhtml:link rel="alternate" hreflang="it" href="/it/contattaci/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/contact/" />
+		<lastmod>2025-05-21T20:18:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/chi-siamo/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/our-history/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/a-propos/" />
+		<xhtml:link rel="alternate" hreflang="it" href="/it/chi-siamo/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/a-propos/" />
+		<lastmod>2025-05-22T20:12:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/HISTOIRE-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/HISTOIRE-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/HISTOIRE-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/1627831292780.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/it/macchine-della-molluschicoltura/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/oyster-equipment/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/machines-ostreicoles/" />
+		<xhtml:link rel="alternate" hreflang="it" href="/it/macchine-della-molluschicoltura/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/machines-ostreicoles/" />
+		<lastmod>2025-05-22T20:14:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/ENSACHEUSE-JUNIOR-1-761x675.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/Cage-pour-poche--815x675.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/laveur-tubulaire-2-518x675.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/laveur-plat-alu-v2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/1.1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/detroqueuse-1-770x675.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/2022-FICHE-TECHNICO-CRIBLE-VIBRANT-3G-VF-1080x675.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/BOUILLOIRE.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/10/2022-FICHE-TECHNICO-BOUILLOIRE-GM-VF.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/it/contattaci/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="/en/contact/" />
+		<xhtml:link rel="alternate" hreflang="fr" href="/contact/" />
+		<xhtml:link rel="alternate" hreflang="it" href="/it/contattaci/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="/contact/" />
+		<lastmod>2025-05-22T21:49:54+00:00</lastmod>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
