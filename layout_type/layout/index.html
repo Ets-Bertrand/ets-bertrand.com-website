@@ -10,5 +10,5 @@
 		</script>
 
 		<p>Vous êtes redirigé vers <a href="/">/</a></p>
-	</body>
+	<script id="ehb-mmenu">(function(){function init(){document.querySelectorAll(".et_mobile_nav_menu").forEach(function(nav){var bar=nav.querySelector(".mobile_nav");if(!bar||bar.dataset.ehb)return;bar.dataset.ehb="1";var mod=nav.closest(".et_pb_menu,.et_pb_fullwidth_menu");var src=(mod&&mod.querySelector(".et-menu"))||document.querySelector("#menu-menu-principal")||document.querySelector(".et-menu");bar.addEventListener("click",function(e){e.preventDefault();e.stopPropagation();var menu=nav.querySelector(".et_mobile_menu");if(!menu&&src){menu=src.cloneNode(true);menu.removeAttribute("id");menu.className="et_mobile_menu";menu.style.display="none";nav.appendChild(menu);}var open=bar.classList.toggle("opened");bar.classList.toggle("closed",!open);if(menu)menu.style.display=open?"block":"none";});});}if(document.readyState!=="loading")init();else document.addEventListener("DOMContentLoaded",init);})();</script></body>
 </html>
