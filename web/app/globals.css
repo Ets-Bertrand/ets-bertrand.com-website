@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ------------------------------------------------------------------ */
+/* Brand fonts (self-hosted from the charter assets)                   */
+/* ------------------------------------------------------------------ */
+@font-face {
+  font-family: 'Conneqt';
+  src: url('/fonts/ConneqtRegular.woff2') format('woff2'),
+    url('/fonts/ConneqtRegular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Oblivian';
+  src: url('/fonts/Oblivian-Text.woff2') format('woff2'),
+    url('/fonts/Oblivian-Text.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Abuget';
+  src: url('/fonts/Abuget.woff2') format('woff2'),
+    url('/fonts/Abuget.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --brand: #0112e8;
+  --brand-400: #63a2f8;
+  --brand-300: #9cc8f9;
+  --brand-200: #b5dafb;
+  --brand-muted: #7897ce;
+  --accent: #cd1719;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-white text-slate-800 antialiased;
+    font-family: theme('fontFamily.sans');
+  }
+  h1, h2, h3, h4 {
+    @apply font-display text-slate-900;
+    text-wrap: balance;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-content px-5 sm:px-8;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3
+      text-sm font-semibold transition focus:outline-none focus-visible:ring-2
+      focus-visible:ring-brand focus-visible:ring-offset-2;
+  }
+  .btn-primary {
+    @apply btn bg-brand text-white hover:bg-brand-700;
+  }
+  .btn-outline {
+    @apply btn border border-brand/30 text-brand hover:bg-brand-50;
+  }
+  .btn-accent {
+    @apply btn bg-accent text-white hover:brightness-110;
+  }
+  .card {
+    @apply rounded-2xl border border-slate-100 bg-white shadow-card;
+  }
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.18em] text-brand;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

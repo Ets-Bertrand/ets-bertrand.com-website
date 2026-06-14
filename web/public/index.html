@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Établissements Bertrand</title>
+    <meta name="robots" content="noindex" />
+    <link rel="canonical" href="https://ets-bertrand.com/fr/" />
+    <script>
+      (function () {
+        var supported = ['fr', 'en', 'it'];
+        var fallback = 'en';
+        function pick() {
+          try {
+            var stored = localStorage.getItem('preferredLocale');
+            if (stored && supported.indexOf(stored) !== -1) return stored;
+          } catch (e) {}
+          var m = document.cookie.match(/(?:^|;\s*)preferredLocale=([^;]+)/);
+          if (m && supported.indexOf(m[1]) !== -1) return m[1];
+          var langs = navigator.languages || [navigator.language || ''];
+          for (var i = 0; i < langs.length; i++) {
+            var code = (langs[i] || '').slice(0, 2).toLowerCase();
+            if (supported.indexOf(code) !== -1) return code;
+          }
+          return fallback;
+        }
+        var locale = pick();
+        var target = '/' + locale + '/';
+        location.replace(target + location.search + location.hash);
+      })();
+    </script>
+  </head>
+  <body>
+    <noscript>
+      <p>Please choose your language / Choisissez votre langue / Scegli la lingua:</p>
+      <ul>
+        <li><a href="/fr/">Français</a></li>
+        <li><a href="/en/">English</a></li>
+        <li><a href="/it/">Italiano</a></li>
+      </ul>
+    </noscript>
+  </body>
+</html>
