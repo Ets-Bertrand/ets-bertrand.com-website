@@ -1,12 +1,13 @@
-# Deployment workflow for the new Next.js site (static export -> GitHub Pages).
+# Deploys the new Next.js site (static export) to GitHub Pages.
 #
-# IMPORTANT: This file is parked here as `web/.github-workflow-deploy.yml` so it
-# does NOT run yet. When you are ready to go live, move it to
-# `.github/workflows/deploy.yml` at the REPOSITORY ROOT and commit.
+# Manual only (workflow_dispatch): it never runs automatically. Trigger it from
+# the Actions tab when you want to publish.
 #
-# It is `workflow_dispatch` (manual) only, so it never deploys automatically.
-# Configure the contact emails as repository secrets:
-#   CONTACT_EMAIL_MARENNES, CONTACT_EMAIL_GUJAN
+# Required repository secrets (Settings -> Secrets and variables -> Actions):
+#   CONTACT_EMAIL_MARENNES
+#   CONTACT_EMAIL_GUJAN
+#
+# Required setting: Settings -> Pages -> Build and deployment -> Source = GitHub Actions
 name: Deploy site
 
 on:
