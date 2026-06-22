@@ -17,12 +17,15 @@ export type QuoteForm = {
   message: string;
 };
 
-/** Resolve to + cc according to the preferred site. "No preference" cc's both. */
+/**
+ * Resolve to + cc according to the preferred site.
+ * Gujan is only ever contacted when explicitly selected (then with Marennes in
+ * cc). In every other case (Marennes or no preference), only Marennes is used.
+ */
 export function resolveRecipients(site: PreferredSite): { to: string; cc?: string } {
-  if (site === 'gujan-mestras') return { to: contactEmails.gujan };
-  if (site === 'marennes') return { to: contactEmails.marennes };
-  // No preference -> Marennes with Gujan in cc (both shops receive it).
-  return { to: contactEmails.marennes, cc: contactEmails.gujan };
+  if (site === 'gujan-mestras') return { to: contactEmails.gujan, cc: contactEmails.marennes };
+  // Marennes or no preference -> Marennes only.
+  return { to: contactEmails.marennes };
 }
 
 const labels = {
